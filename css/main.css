@@ -1,0 +1,34 @@
+
+
+body {
+    padding: 20px;
+}
+
+/*-----Gallery Styles*/
+.container,
+#results {
+    text-align: center;
+    max-width: 1360px;
+    margin: 40px auto;
+}
+
+#search-form, .form-control {
+    margin-bottom: 20px;
+}
+
+.cover {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cover li {
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+}
+
+
